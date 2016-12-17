@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="es">
 <!--<![endif]-->
 <!-- Head BEGIN -->
 <head>
@@ -44,9 +44,7 @@
 <body class="ecommerce">
 <!-- BEGIN HEADER -->
 <div class="header">
-
     <div class="container">
-
         <div class="col-md-3">
             <div class="row ">
                 <div class="col-md-4 col-xs-4">
@@ -64,12 +62,8 @@
 
         </div>
 
-
-
         <div class="col-md-9">
-
             <div class="header-navigation">
-
                 <ul>
                     <li>
                         <a href="#">
@@ -143,14 +137,15 @@
                 </ul>
             </div>
         </div>
-
-
-
-
         <!-- END NAVIGATION -->
     </div>
 </div>
 <!-- Header END -->
+
+
+
+
+
 
 <div class="container">
     <hr>
@@ -327,7 +322,7 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="assets2/img/home/1.jpg" class="img-responsive">
+                                <img src="assets2/img/home/1.jpg"  class="img-responsive">
                             </div>
                             <div class="item">
                                 <img src="assets2/img/home/2.jpg" class="img-responsive">
@@ -357,13 +352,107 @@
     <hr>
 </div>
 
+<div class="container">
+    <hr>
+    <h1>Talleres</h1>
+    <div class="col-md-6">
+        <a class="twitter-timeline"  href="https://twitter.com/search?q=%40polosinnovzac" data-widget-id="809630886501097472">Tweets sobre @polosinnovzac</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="col-xs-12" id="slider">
+            <!-- Top part of the slider -->
+            <div class="row">
+                <div class="col-sm-12" id="carousel-bounding-box">
+                    <div class="carousel slide" id="myCarousel2">
+                        <!-- Carousel items -->
+                        <div class="carousel-inner">
+                            <div class="active item" data-slide-number="0">
+                                <img src="assets2/img/slider_polos/1.jpg"></div>
+
+                            <div class="item" data-slide-number="1">
+                                <img src="assets2/img/slider_polos/2.jpg"></div>
+
+                            <div class="item" data-slide-number="2">
+                                <img src="assets2/img/slider_polos/3.JPG"></div>
+
+                            <div class="item" data-slide-number="3">
+                                <img src="assets2/img/slider_polos/4.jpg"></div>
+
+                            <div class="item" data-slide-number="4">
+                                <img src="assets2/img/slider_polos/5.jpg"></div>
+
+                        </div>
+                        <!-- Carousel nav -->
+                        <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
 
 <div class="container">
+    <hr>
+    <h1>Noticias</h1>
+    <div class="col-md-8">
+        <div class="aboutSection text-center">
+            <h2>Campus Party</h2>
+            <p>Una de las grandes novedades de Campus Party México este 2016 ha sido llevar el Hackatón a otras regiones y clasificar a los mejores proyectos para Jalisco Campus Party gracias a la alianza con CENTRO FOX. Este 2017 habrá Hackatones regionales en todos los Estados de la República Mexicana que clasificarán a Jalisco Campus Party 2017</p>
+        </div>
+
+        <div class="aboutSection text-center">
+            <h2>Red Hat</h2>
+            <p>Red Hat crea plataforma para desarrollo de aplicaciones móviles a través de contenedores
+                Las nuevas opciones para implementar Red Hat Mobile Application Platform ayudan a las empresas a brindar soluciones centradas en la movilidad, definidas por enfoques ágiles basados en la nube y en microservicios.</p>
+        </div>
+
+        <div class="aboutSection text-center">
+            <h2>Google renueva su plataforma de IoT</h2>
+            <p>
+                Google anunció ayer dos actualizaciones de su plataforma de Internet de las Cosas (IoT), antes conocida como Project Brillo. En concreto, Google lanzó una versión para desarrolladores de Android Things, una plataforma para desarrollar productos IoT utilizando las APIs de Android y los servicios de Google. La actualización incluye herramientas del anterior Project Brillo, como Android Studio, el kit de desarrollo de software de Android (SDK), Google Play Services y la plataforma cloud de Google. En los próximos meses, la compañía espera publicar nuevas actualizaciones que incluyen desde parches de seguridad hasta la incorporación de plataforma de conectividad IoT Weave.
+            </p>
+        </div>
+
+        <div class="aboutSection text-center">
+            <h2>Cozcty ha becado a 735 estudiantes</h2>
+            <p>
+                El Consejo Zacatecano de Ciencia, Tecnología e Innovación (Cozcyt) becó a 735 estudiantes, como resultado de su última convocatoria, quienes recibirán montos que van de  750 a mil 500 pesos mensuales, según el tipo de apoyo.
+                Agustín Enciso Muñoz, director del Cozcyt, explicó que las becas se otorgan a estudiantes de bajos recursos económicos de nivel superior y medio superior de ciencias básicas, ingenierías y carreras de impacto tecnológico para el estado.
+            </p>
+        </div>
+        <div class="aboutSection text-center">
+            <h2>Bigbag theme</h2>
+            <p>Commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque  totam rem aperiam eaque ipsa quae ab illo</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=999680930092413";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+        <div class="fb-page" data-href="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333" data-tabs="timeline" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333">Consejo Zacatecano de Ciencia, Tecnología e Innovación</a></blockquote></div>
+    </div>
+</div>
+
+
+<div class="container">
+    <hr>
+    <h1>Ubicación</h1>
     <style type="text/css">
         #mapa { height: 500px; }
     </style>
-
-
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyCj_h2uAHa1ZcAy5JaGiLA9fF-HEz9iwjI"></script>
     <script type="text/javascript">
         function initialize() {
@@ -402,31 +491,10 @@
         }
         google.maps.event.addDomListener(window, 'load', initialize);
     </script>
-
     <div id="mapa"></div>
 </div>
 
-<div class="container">
-    <div class="col-md-6">
-        <a class="twitter-timeline"  href="https://twitter.com/search?q=%40polosinnovzac" data-widget-id="809630886501097472">Tweets sobre @polosinnovzac</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-    </div>
-    <div class="col-md-6">
-
-        <div id="fb-root"></div>
-        <script>(function(d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8&appId=999680930092413";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));</script>
-        <div class="fb-page" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div>
-    </div>
-
-
-</div>
 
 
 <!-- BEGIN BRANDS -->
@@ -509,6 +577,31 @@
     });
 </script>
 <!-- END PAGE LEVEL JAVASCRIPTS -->
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+
+        $('#myCarousel2').carousel({
+            interval: 5000
+        });
+
+//Handles the carousel thumbnails
+        $('[id^=carousel-selector-]').click(function () {
+            var id_selector = $(this).attr("id");
+            try {
+                var id = /-(\d+)$/.exec(id_selector)[1];
+                console.log(id_selector, id);
+                jQuery('#myCarousel2').carousel(parseInt(id));
+            } catch (e) {
+                console.log('Regex failed!', e);
+            }
+        });
+// When the carousel slides, auto update the text
+        $('#myCarousel2').on('slid.bs.carousel', function (e) {
+            var id = $('.item.active').data('slide-number');
+            $('#carousel-text').html($('#slide-content-'+id).html());
+        });
+    });
+</script>
 </body>
 <!-- END BODY -->
 </html>

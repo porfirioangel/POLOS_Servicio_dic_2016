@@ -404,34 +404,25 @@
     <h1>Noticias</h1>
     <div class="col-md-8">
         <div class="aboutSection text-center">
-            <h2>Campus Party</h2>
-            <p>Una de las grandes novedades de Campus Party México este 2016 ha sido llevar el Hackatón a otras regiones y clasificar a los mejores proyectos para Jalisco Campus Party gracias a la alianza con CENTRO FOX. Este 2017 habrá Hackatones regionales en todos los Estados de la República Mexicana que clasificarán a Jalisco Campus Party 2017</p>
-        </div>
-
-        <div class="aboutSection text-center">
             <h2>Red Hat</h2>
-            <p>Red Hat crea plataforma para desarrollo de aplicaciones móviles a través de contenedores
-                Las nuevas opciones para implementar Red Hat Mobile Application Platform ayudan a las empresas a brindar soluciones centradas en la movilidad, definidas por enfoques ágiles basados en la nube y en microservicios.</p>
+            <p class="text-justify">
+                Red Hat crea plataforma para desarrollo de aplicaciones móviles a través de contenedores
+                Las nuevas opciones para implementar Red Hat Mobile Application Platform ayudan a las empresas a brindar soluciones centradas en la movilidad, definidas por enfoques ágiles basados en la nube y en microservicios.
+                Red Hat, Inc. (NYSE: RHT), anunció el 22 de noviembre el lanzamiento de Red Hat Mobile Application Platform, diseñada para funcionar en cualquier nube pública, privada o infraestructura local compatible con Red Hat Enterprise Linux. Junto con la actual plataforma de aplicaciones móviles basada en SaaS de Red Hat, las empresas ahora cuentan con un espectro mayor de opciones de implementación para integrar, gestionar y ampliar sus iniciativas de aplicaciones móviles a fin de alcanzar sus objetivos empresariales.
+
+                Considerada como el paso a una plataforma totalmente dispuesta en contenedores, Red Hat OpenShift Container Platform, está basada en contenedores con formato docker y en Kubernetes, forma parte de la estrategia de Red Hat de ofrecer una plataforma integrada única para el desarrollo de aplicaciones modernas que sea nativa de la nube, esté centrada en los dispositivos móviles, se base en microservicios y sea impulsada por la API. Esta nueva generación de herramientas de desarrollo de aplicaciones también admite DevOps y los procesos ágiles para ayudar a las organizaciones a innovar y responder a las necesidades en constante evolución de la empresa digital.
+            </p>
         </div>
 
         <div class="aboutSection text-center">
-            <h2>Google renueva su plataforma de IoT</h2>
-            <p>
+            <h2>Google renueva su plataforma de IoT con Intel como aliado</h2>
+            <p class="text-justify">
                 Google anunció ayer dos actualizaciones de su plataforma de Internet de las Cosas (IoT), antes conocida como Project Brillo. En concreto, Google lanzó una versión para desarrolladores de Android Things, una plataforma para desarrollar productos IoT utilizando las APIs de Android y los servicios de Google. La actualización incluye herramientas del anterior Project Brillo, como Android Studio, el kit de desarrollo de software de Android (SDK), Google Play Services y la plataforma cloud de Google. En los próximos meses, la compañía espera publicar nuevas actualizaciones que incluyen desde parches de seguridad hasta la incorporación de plataforma de conectividad IoT Weave.
+                Android Things ya cuenta con el apoyo de hardware como el módulo de IoT Intel Edison, NXP Pico y Raspberry Pi 3. Además, Qualcomm anunció que está trabajando para que su línea de procesadores Snapdragon soporte la plataforma de Google —Qualcomm viene apostando fuertemente a IoT como una forma de ampliar el alcance de su ecosistema Snapdragon—.
+                Google también buscará facilitar el uso de Weave y Google Assistant para el resto de dispositivos. Por ahora, fabricantes como Phillips Hue y Samsung SmartThings utiliza Weave, mientras que otros como Belkin, WeMo, LiFX, Honeywell, Wink, TP-Link y First Alert están implementándolo.
             </p>
         </div>
 
-        <div class="aboutSection text-center">
-            <h2>Cozcty ha becado a 735 estudiantes</h2>
-            <p>
-                El Consejo Zacatecano de Ciencia, Tecnología e Innovación (Cozcyt) becó a 735 estudiantes, como resultado de su última convocatoria, quienes recibirán montos que van de  750 a mil 500 pesos mensuales, según el tipo de apoyo.
-                Agustín Enciso Muñoz, director del Cozcyt, explicó que las becas se otorgan a estudiantes de bajos recursos económicos de nivel superior y medio superior de ciencias básicas, ingenierías y carreras de impacto tecnológico para el estado.
-            </p>
-        </div>
-        <div class="aboutSection text-center">
-            <h2>Bigbag theme</h2>
-            <p>Commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque  totam rem aperiam eaque ipsa quae ab illo</p>
-        </div>
     </div>
     <div class="col-md-4">
         <div id="fb-root"></div>

@@ -81,7 +81,7 @@
 
 
                 <a href="javascript:void(0);" class="mobi-toggler"><i
-                            class="fa fa-bars"></i></a>
+                        class="fa fa-bars"></i></a>
             </div>
 
         </div>
@@ -162,7 +162,7 @@
                         <ul class="dropdown-menu">
                             <li class="dropdown-submenu">
                                 <a href="shop-product-list.html">Listado<i
-                                            class="fa fa-angle-right"></i></a>
+                                        class="fa fa-angle-right"></i></a>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="#">Instituto Tecnológico
                                             Superior Zacatecas Sur -
@@ -581,9 +581,9 @@
              data-adapt-container-width="false" data-hide-cover="true"
              data-show-facepile="true">
             <blockquote
-                    cite="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333"
-                    class="fb-xfbml-parse-ignore"><a
-                        href="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333">Consejo
+                cite="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333"
+                class="fb-xfbml-parse-ignore"><a
+                    href="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333">Consejo
                     Zacatecano de Ciencia, Tecnología e Innovación</a>
             </blockquote>
         </div>
@@ -641,17 +641,20 @@
     <div id="mapa"></div>
 </div>
 
-<!-- Logo Slider INICIO -->
+
 <div class="container">
     <div class="my-logo-slider">
+
         <div>
             <a href="#">
                 <img src="assets2/img/banner_marcas/Internet-of-Things.jpg">
-            </a></div>
+            </a>
+        </div>
         <div>
             <a href="#">
                 <img src="assets2/img/banner_marcas/logo_sedesol.png">
-            </a></div>
+            </a>
+        </div>
         <div>
             <a href="#">
                 <img src="assets2/img/banner_marcas/logo_planeacion.png">
@@ -662,6 +665,7 @@
                 <img src="assets2/img/banner_marcas/logo_godezac.png">
             </a>
         </div>
+
         <div>
             <a href="#">
                 <img src="assets2/img/banner_marcas/logo_intel.png">
@@ -669,10 +673,15 @@
         </div>
     </div>
 </div>
-<!-- Logo Slider FIN -->
+
+
+
+
+
 
 <!-- BEGIN PRE-FOOTER -->
 <div class="pre-footer">
+
     <div class="container">
         <div class="row">
             <!-- BEGIN SOCIAL ICONS -->
@@ -776,13 +785,13 @@
 <script src="santiago/lib/slick/slick.min.js"></script>
 <script>
     $('.my-logo-slider').slick({
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 1000,
         dots: true,
-        infinite: true,
+        infinite: false,
         speed: 1000,
         slidesToShow: 1,
-        centerMode: true,
+        centerMode: false,
         variableWidth: true
     });
 </script>

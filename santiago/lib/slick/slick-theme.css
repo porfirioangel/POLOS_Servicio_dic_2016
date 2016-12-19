@@ -114,6 +114,7 @@
 }
 
 .slick-dots {
+    visibility: hidden;
     position: absolute;
     bottom: -25px;
 
@@ -130,7 +131,7 @@
 
 .slick-dots li {
     position: relative;
-
+    visibility: hidden;
     display: inline-block;
 
     width: 20px;

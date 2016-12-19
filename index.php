@@ -362,41 +362,17 @@
 <br><br>
 <div class="main">
     <div class="container">
+        <h1>Generación y difusión del conocimiento</h1>
         <!-- BEGIN TWO PRODUCTS & PROMO -->
         <div class="row margin-bottom-35 ">
             <!-- BEGIN TWO PRODUCTS -->
-            <div class="col-md-6 two-items-bottom-items">
-                <h2>Labsol</h2>
-                <div class="owl-carousel owl-carousel2">
-                    <div>
-                        <div class="product-item">
-                            <div class="pi-img-wrapper">
-                                <img src="assets2/img/home/lab.jpg"
-                                     class="img-responsive">
-                            </div>
-                            <h3><a href="shop-item.html">Zacatecas</a></h3>
-                            <div class="pi-price">COZCYT</div>
-                            <a href="#"
-                               class="btn btn-default add2cart">Labsol</a>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="product-item">
-                            <div class="pi-img-wrapper">
-                                <img src="assets2/img/home/lab2.jpg"
-                                     class="img-responsive">
-                            </div>
-                            <h3><a href="shop-item.html">Zacatecas</a></h3>
-                            <div class="pi-price">COZCYT</div>
-                            <a href="#"
-                               class="btn btn-default add2cart">Labsol</a>
-                        </div>
-                    </div>
-                </div>
+            <div class="col-md-3">
+
+
             </div>
             <!-- END TWO PRODUCTS -->
             <!-- BEGIN PROMO -->
-            <div class="col-md-6 shop-index-carousel">
+            <div class="col-md-9 shop-index-carousel">
                 <div class="content-slider">
                     <div id="myCarousel" class="carousel slide"
                          data-ride="carousel">
@@ -408,6 +384,10 @@
                                 data-slide-to="1"></li>
                             <li data-target="#myCarousel"
                                 data-slide-to="2"></li>
+                            <li data-target="#myCarousel"
+                                data-slide-to="3"></li>
+                            <li data-target="#myCarousel"
+                                data-slide-to="4"></li>
                         </ol>
                         <div style="margin-top: 30px;" class="carousel-inner">
                             <div class="item active">
@@ -425,6 +405,19 @@
                                      src="assets2/img/home/3.jpg"
                                      class="img-responsive">
                             </div>
+
+                            <div class="item">
+                                <img style="height: 280px;"
+                                     src="assets2/img/home/lab2.jpg"
+                                     class="img-responsive">
+                            </div>
+
+
+                            <div class="item">
+                                <img style="height: 280px;"
+                                     src="assets2/img/home/lab.jpg"
+                                     class="img-responsive">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -434,8 +427,9 @@
         <!-- END TWO PRODUCTS & PROMO -->
     </div>
 </div>
+
 <div class="container">
-    <hr>
+    <br>
     <p class="text-justify">
         Actualmente Zacatecas se consolida con un liderazgo y escanerio único en
         nuestro País e incluso en otros paises en el tema
@@ -451,6 +445,7 @@
         libre y código abierto.
     </p>
 </div>
+
 
 <div class="container">
     <hr>

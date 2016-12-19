@@ -450,25 +450,13 @@
         hacia la innovación en negocios aprovechando las soluciones de software
         libre y código abierto.
     </p>
-    <hr>
 </div>
 
 <div class="container">
     <hr>
     <h1>Talleres</h1>
     <div class="col-md-6">
-        <a class="twitter-timeline"
-           href="https://twitter.com/search?q=%40polosinnovzac"
-           data-widget-id="810585331640705024">Tweets about @polosinnovzac</a>
-        <script>!function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-                if (!d.getElementById(id)) {
-                    js = d.createElement(s);
-                    js.id = id;
-                    js.src = p + "://platform.twitter.com/widgets.js";
-                    fjs.parentNode.insertBefore(js, fjs);
-                }
-            }(document, "script", "twitter-wjs");</script>
+        <a class="twitter-timeline" href="https://twitter.com/polosinnovzac">Tweets by polosinnovzac</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
     <div class="col-sm-6">
         <div class="col-xs-12" id="slider">

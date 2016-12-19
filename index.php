@@ -64,24 +64,21 @@
     <div class="container">
         <div class="col-md-3">
             <div class="row ">
+
                 <div class="col-md-4 col-xs-4">
-                    <a class="site-logo  centered"
-                       href="http://cozcyt.gob.mx/site2/"><img class=""
-                                                               src="assets2/global/img/header/logo_gobierno_estado.png"
-                                                               height="33px"
-                                                               alt="logo"></a>
+                    <a class="site-logo " href="/polos">
+                        <img class="" src="assets2/global/img/header/logo_polos.png" height="48px" alt="logo">
+                    </a>
                 </div>
+
                 <div class="col-md-4 col-xs-4">
-                    <a class="site-logo" href=""><img
-                                src="assets2/global/img/header/logo_labsol.png"
-                                alt="logo" class="" height="33px"></a>
+                    <a class="site-logo  centered" href="http://cozcyt.gob.mx/site2/">
+                        <img class=""src="assets2/global/img/header/logo_gobierno_estado.png" height="48px" alt="logo">
+                    </a>
                 </div>
-                <div class="col-md-4 hidden-xs">
-                    <a class="site-logo " href="/polos"><img class=""
-                                                             src="assets2/global/img/header/logo_polos.png"
-                                                             height="33px"
-                                                             alt="logo"></a>
-                </div>
+
+
+
 
                 <a href="javascript:void(0);" class="mobi-toggler"><i
                             class="fa fa-bars"></i></a>

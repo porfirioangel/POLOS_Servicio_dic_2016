@@ -391,13 +391,10 @@
         <!-- BEGIN TWO PRODUCTS & PROMO -->
         <div class="row margin-bottom-35 ">
             <!-- BEGIN TWO PRODUCTS -->
-            <div class="col-md-3">
 
-
-            </div>
             <!-- END TWO PRODUCTS -->
             <!-- BEGIN PROMO -->
-            <div class="col-md-9 shop-index-carousel">
+            <div class="col-md-6 shop-index-carousel">
                 <div class="content-slider">
                     <div id="myCarousel" class="carousel slide"
                          data-ride="carousel">
@@ -447,27 +444,27 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-6">
+                <br>
+                <p class="text-justify">
+                    Actualmente Zacatecas se consolida con un liderazgo y escanerio único en
+                    nuestro País e incluso en otros paises en el tema
+                    de innovación tecnológica abierta basada en los fundamentos del software
+                    libre y de código abierto, la Ley Estatal de
+                    Software Libre obliga a instancias públicas a la adopción de software
+                    libre en proyectos tecnológicos; al Laboratorio de
+                    Software Libre del COZCyT se ha consolidado como un centro especializado
+                    en el desarrollo de proyectos tecnológicos y lo
+                    anterior fortalecido por el Cluster de Software Libre que enfoca su
+                    misión en el impulso del sector empresarial del Estado
+                    hacia la innovación en negocios aprovechando las soluciones de software
+                    libre y código abierto.
+                </p>
+            </div>
             <!-- END PROMO -->
         </div>
         <!-- END TWO PRODUCTS & PROMO -->
     </div>
-</div>
-<div class="container">
-    <br>
-    <p class="text-justify">
-        Actualmente Zacatecas se consolida con un liderazgo y escanerio único en
-        nuestro País e incluso en otros paises en el tema
-        de innovación tecnológica abierta basada en los fundamentos del software
-        libre y de código abierto, la Ley Estatal de
-        Software Libre obliga a instancias públicas a la adopción de software
-        libre en proyectos tecnológicos; al Laboratorio de
-        Software Libre del COZCyT se ha consolidado como un centro especializado
-        en el desarrollo de proyectos tecnológicos y lo
-        anterior fortalecido por el Cluster de Software Libre que enfoca su
-        misión en el impulso del sector empresarial del Estado
-        hacia la innovación en negocios aprovechando las soluciones de software
-        libre y código abierto.
-    </p>
 </div>
 
 <div class="container">

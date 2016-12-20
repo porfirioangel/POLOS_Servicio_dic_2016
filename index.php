@@ -191,7 +191,7 @@
 
     <h1>Talleres</h1>
 
-    <div class="col-sm-6">
+    <div class="col-md-6">
         <div class="col-xs-12" id="slider">
             <!-- Top part of the slider -->
             <div class="row">
@@ -225,6 +225,47 @@
                             <span class="glyphicon glyphicon-chevron-right"></span>
                         </a>
                     </div>
+
+
+
+                        <div class="row">
+                            <!-- Features Item -->
+                            <div class="col-md-6 ">
+                                <div class="alt-features-item align-center">
+                                    <div class="alt-features-icon">
+                                        <span class="icon-flag"></span>
+                                    </div>
+                                    <h3 class="alt-features-title font-alt">Red Hat crea plataforma para desarrollo de aplicaciones móviles </h3>
+                                    <div class="alt-features-descr align-left text-justify">
+                                        Red Hat crea plataforma para desarrollo de aplicaciones móviles a través de contenedores Las nuevas opciones para implementar Red Hat Mobile Application Platform ayudan a las empresas a brindar soluciones centradas en la movilidad, definidas por enfoques ágiles basados en la nube y en microservicios.
+                                        <a href="http://diarioti.com/red-hat-crea-plataforma-para-desarrollo-de-aplicaciones-moviles-a-traves-de-contenedores/101690" class="btn btn-primary">Leer Más</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Features Item -->
+
+
+                            <!-- Features Item -->
+                            <div class="col-md-6">
+                                <div class="alt-features-item align-center">
+                                    <div class="alt-features-icon">
+                                        <span class="icon-chat"></span>
+                                    </div>
+                                    <h3 class="alt-features-title font-alt">Google renueva su plataforma de IoT con Intel como aliado</h3>
+                                    <div class="alt-features-descr align-left text-justify">
+                                        Google anunció ayer dos actualizaciones de su plataforma de
+                                        Internet de las Cosas (IoT), antes conocida como Project Brillo.
+                                        En concreto, Google lanzó una versión para desarrolladores de
+                                        Android Things, una plataforma para desarrollar productos IoT
+                                        utilizando las APIs de Android y los servicios de Google.
+                                        <a href="http://www.telesemana.com/blog/2016/12/14/google-renueva-su-plataforma-de-iot-suma-aliados-como-intel-y-qualcomm/" class="btn btn-primary">Leer Más</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Features Item -->
+                        </div>
+
+
                 </div>
             </div>
         </div>
@@ -234,100 +275,17 @@
     </div>
 
 
+
 </div>
+
+
 
 <div class="container">
-    <hr>
-    <h1>Noticias</h1>
-    <div class="col-md-8">
-        <div class="aboutSection text-center">
-            <h2>Red Hat</h2>
-            <p class="text-justify">
-                Red Hat crea plataforma para desarrollo de aplicaciones móviles
-                a través de contenedores
-                Las nuevas opciones para implementar Red Hat Mobile Application
-                Platform ayudan a las empresas a brindar soluciones centradas en
-                la movilidad, definidas por enfoques ágiles basados en la nube y
-                en microservicios.
-                Red Hat, Inc. (NYSE: RHT), anunció el 22 de noviembre el
-                lanzamiento de Red Hat Mobile Application Platform, diseñada
-                para funcionar en cualquier nube pública, privada o
-                infraestructura local compatible con Red Hat Enterprise Linux.
-                Junto con la actual plataforma de aplicaciones móviles basada en
-                SaaS de Red Hat, las empresas ahora cuentan con un espectro
-                mayor de opciones de implementación para integrar, gestionar y
-                ampliar sus iniciativas de aplicaciones móviles a fin de
-                alcanzar sus objetivos empresariales.
 
-                Considerada como el paso a una plataforma totalmente dispuesta
-                en contenedores, Red Hat OpenShift Container Platform, está
-                basada en contenedores con formato docker y en Kubernetes, forma
-                parte de la estrategia de Red Hat de ofrecer una plataforma
-                integrada única para el desarrollo de aplicaciones modernas que
-                sea nativa de la nube, esté centrada en los dispositivos
-                móviles, se base en microservicios y sea impulsada por la API.
-                Esta nueva generación de herramientas de desarrollo de
-                aplicaciones también admite DevOps y los procesos ágiles para
-                ayudar a las organizaciones a innovar y responder a las
-                necesidades en constante evolución de la empresa digital.
-            </p>
-        </div>
 
-        <div class="aboutSection text-center">
-            <h2>Google renueva su plataforma de IoT con Intel como aliado</h2>
-            <p class="text-justify">
-                Google anunció ayer dos actualizaciones de su plataforma de
-                Internet de las Cosas (IoT), antes conocida como Project Brillo.
-                En concreto, Google lanzó una versión para desarrolladores de
-                Android Things, una plataforma para desarrollar productos IoT
-                utilizando las APIs de Android y los servicios de Google. La
-                actualización incluye herramientas del anterior Project Brillo,
-                como Android Studio, el kit de desarrollo de software de Android
-                (SDK), Google Play Services y la plataforma cloud de Google. En
-                los próximos meses, la compañía espera publicar nuevas
-                actualizaciones que incluyen desde parches de seguridad hasta la
-                incorporación de plataforma de conectividad IoT Weave.
-                Android Things ya cuenta con el apoyo de hardware como el módulo
-                de IoT Intel Edison, NXP Pico y Raspberry Pi 3. Además, Qualcomm
-                anunció que está trabajando para que su línea de procesadores
-                Snapdragon soporte la plataforma de Google —Qualcomm viene
-                apostando fuertemente a IoT como una forma de ampliar el alcance
-                de su ecosistema Snapdragon—.
-                Google también buscará facilitar el uso de Weave y Google
-                Assistant para el resto de dispositivos. Por ahora, fabricantes
-                como Phillips Hue y Samsung SmartThings utiliza Weave, mientras
-                que otros como Belkin, WeMo, LiFX, Honeywell, Wink, TP-Link y
-                First Alert están implementándolo.
-            </p>
-        </div>
 
-    </div>
-    <div class="col-md-4">
-        <div id="fb-root"></div>
-        <script>(function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s);
-                js.id = id;
-                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=999680930092413";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));</script>
-        <div class="fb-page"
-             data-href="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333"
-             data-tabs="timeline" data-small-header="false"
-             data-adapt-container-width="false" data-hide-cover="true"
-             data-show-facepile="true">
-            <blockquote
-                cite="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333"
-                class="fb-xfbml-parse-ignore"><a
-                    href="https://www.facebook.com/Consejo-Zacatecano-de-Ciencia-Tecnolog&#xed;a-e-Innovaci&#xf3;n-235013703220333">Consejo
-                    Zacatecano de Ciencia, Tecnología e Innovación</a>
-            </blockquote>
-        </div>
-    </div>
+
 </div>
-
-
 
 <div class="container">
     <hr>
@@ -472,11 +430,6 @@
 
         <div>
             <a href="#">
-                <img src="assets2/img/banner_marcas/Internet-of-Things.jpg">
-            </a>
-        </div>
-        <div>
-            <a href="#">
                 <img src="assets2/img/banner_marcas/logo_sedesol.png">
             </a>
         </div>
@@ -488,6 +441,11 @@
         <div>
             <a href="#">
                 <img src="assets2/img/banner_marcas/logo_godezac.png">
+            </a>
+        </div>
+        <div>
+            <a href="#">
+                <img src="assets2/global/img/header/logo_labsol.png">
             </a>
         </div>
 
